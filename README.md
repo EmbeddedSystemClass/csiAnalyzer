@@ -3,7 +3,7 @@
 - Uses graph plotting API over legacy bitmap graphs 
 - Project aim was to develop a prototype GUI which would allow the company to migrate to latest Cortex series from older ARM7   architecture
 - Developed as an internship project for Fusion Process Control Systems Pvt. Ltd. (Nov 2017-Jan 2018)
-- Check out the Wiki for screenshots
+
 
 # Screenshots
 
